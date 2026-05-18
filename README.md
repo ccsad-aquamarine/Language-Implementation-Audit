@@ -14,4 +14,4 @@
 
 **Video Walkthrough:** [Insert Link to Video]
 
-**AI Usage Documentation:** [Insert Link to AI Usage Documentation]
+**AI Usage Documentation:** [AI-Documentation.md](./project-overview/AI-Documentation.md)
