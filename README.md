@@ -12,6 +12,6 @@
 
 **Primary Repository:** https://github.com/ccsad-aquamarine/Language-Implementation-Audit
 
-**Video Walkthrough:** [Insert Link to Video]
+**Video Walkthrough:** [Video Demo](https://www.youtube.com/watch?v=CXVLpX0fvUc)
 
 **AI Usage Documentation:** [AI-Documentation.md](./project-overview/AI-Documentation.md)
